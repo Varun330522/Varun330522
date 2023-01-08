@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Varun
+- 👋 Hi, I’m Varun Sheth
 - 👀 I’m interested in Web Development , Frontend And UI/UX desgin 
 - 🌱 I’m currently learning Javascript and Linux OS also doing my graduation in Computer Engineering
 - 💞️ I’m looking to collaborate on open source project 
